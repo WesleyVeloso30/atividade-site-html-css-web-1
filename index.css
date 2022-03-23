@@ -1,0 +1,27 @@
+img{
+    border-radius: 100%;
+    max-width: 6rem;
+    max-height: 6rem;
+    margin: 0.5rem 0rem 0.5rem 1rem;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+header ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    align-items: center;
+}
+
+header ul li{
+    margin: 0rem 1rem 0rem 1rem;
+
+} 
